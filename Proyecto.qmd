@@ -1,0 +1,9 @@
+---
+title: "Proyecto"
+format: html
+editor: visual
+---
+
+```{r}
+DF<-read_csv("Estadística proyecto.csv")
+```
